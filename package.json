@@ -16,7 +16,7 @@
     "koa"
   ],
   "dependancies": [
-    "multiparty": "^4",
+    "multiparty": "^4"
   ],
   "peerDependencies": [
     "co": "^4"
