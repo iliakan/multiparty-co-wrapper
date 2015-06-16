@@ -15,12 +15,12 @@
     "co",
     "koa"
   ],
-  "dependancies": [
+  "dependancies": {
     "multiparty": "^4"
-  ],
-  "peerDependencies": [
+  },
+  "peerDependencies": {
     "co": "^4"
-  ],
+  },
   "author": "Ilya Kantor",
   "license": "MIT",
   "bugs": {
