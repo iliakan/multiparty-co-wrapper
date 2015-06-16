@@ -1,0 +1,30 @@
+{
+  "name": "multiparty-co-wrapper",
+  "version": "0.0.1",
+  "description": "Co wrapper for multiparty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliakan/multiparty-co-wrapper.git"
+  },
+  "keywords": [
+    "multiparty",
+    "co",
+    "koa"
+  ],
+  "dependancies": [
+    "multiparty": "^4",
+  ],
+  "peerDependencies": [
+    "co": "^4"
+  ],
+  "author": "Ilya Kantor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iliakan/multiparty-co-wrapper/issues"
+  },
+  "homepage": "https://github.com/iliakan/multiparty-co-wrapper#readme"
+}
